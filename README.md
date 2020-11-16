@@ -10,12 +10,13 @@ Authors:
 
 <br>
 
-_*Demaestri, Juan Ignacio<br>
-_*Gutierrez, Manuel
+*)__Demaestri, Juan Ignacio<br>
+*)__Gutierrez, Manuel
 
 <br>
 
-Institutions: Universidad Tecnológica Nacional, Buenos Aires, Argentina.
+Institutions: <br>
+Universidad Tecnológica Nacional, Buenos Aires, Argentina.
 Industrial Engineering, [clusterAI]
 
 <br>
