@@ -10,8 +10,8 @@ Authors:
 
 <br>
 
--Demaestri, Juan Ignacio
--Gutierrez, Manuel
+_*Demaestri, Juan Ignacio<br>
+_*Gutierrez, Manuel
 
 <br>
 
