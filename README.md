@@ -7,13 +7,13 @@ The main objective of this work is the preparation of a Regression model to pred
 <br>
 
 <u>Authors:</u>
-
 <br>
 <b><i>Demaestri, Juan Ignacio<br>
 Gutierrez, Manuel
 </i></b>
 <br>
 
+<br>
 <u>Institutions: </u>
 <br>
 Universidad Tecnológica Nacional, Buenos Aires, Argentina. <br>
