@@ -9,13 +9,13 @@ The main objective of this work is the preparation of a Regression model to pred
 <u>Authors:</u>
 
 <br>
-
-<i>Demaestri, Juan Ignacio<br>
+<b><i>Demaestri, Juan Ignacio<br>
 Gutierrez, Manuel
-</i>
+</i></b>
 <br>
 
-<u>Institutions: <br></u>
+<u>Institutions: </u>
+<br>
 Universidad Tecnológica Nacional, Buenos Aires, Argentina. <br>
 
 Industrial Engineering, [clusterAI]
